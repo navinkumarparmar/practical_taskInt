@@ -18,7 +18,7 @@ List any software or tools needed to run the project:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/navinkumarparmar/practical_task.git
+   git clone https://github.com/navinkumarparmar/practical_taskInt
 
 2. Navigate to the project directory:
  cd practical_task
